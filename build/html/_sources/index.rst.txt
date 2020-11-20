@@ -1,24 +1,15 @@
-Simple Documentation Tutorial: Doctut
-=====================================
-
-
-Another simple header
-=====================
-
-Here is some text explaining some very complicated stuff.::
-
-    print 'hello'
-    >> hello
-
-Guide
-^^^^^
+WMS-Delage® Rx - Especificación WMSOper v1.1.0.38 ES
+====================================================
 
 .. toctree::
    :maxdepth: 3
 
-   license
-   help
    wmsoper 
+
+.. toctree::
+   :maxdepth: 3
+
+   wmsoperxml 
 
 Indices and tables
 ==================
